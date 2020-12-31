@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a bibliophile, and love sketching, painting and writing
 -->
+- 🔭 I’m currently working on writing articles on Medium. Find me [here!](https://akshayavb99.medium.com/)
+- 🌱 I’m currently exploring Data Science, Machine Learning, Deep Learning, Cloud Services (AWS) and more!
