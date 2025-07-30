@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on writing articles on Medium. Find me [here!](https://akshayavb99.medium.com/)
 - 🌱 I’m currently exploring Data Science, Machine Learning, Deep Learning, Cloud Services (AWS) and more!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshaya-balaji-308415144/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshayabalaji/)
 - ⚡ Fun fact: I am a bibliophile, and love sketching, painting and writing
